@@ -1,5 +1,3 @@
-﻿//CEM BAYIR 160202066
-//ÖZGÜR DEMİR 160202072
 using System;
 using System.Collections;
 using System.Collections.Generic;
